@@ -12,7 +12,7 @@ make dashboard  # launches the Streamlit dashboard
 
 `make dashboard` starts Streamlit on port 8501. In Codespaces, a popup will offer to forward the port - open it (or use the "Ports" tab) to view the dashboard in your browser.
 
-**Dashboard link:** _\https://cell-count.streamlit.app/\_
+**Dashboard link:** _https://cell-count.streamlit.app/_
 
 ### Deploying to Streamlit Community Cloud (for a public link)
 
